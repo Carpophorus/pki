@@ -1,0 +1,33 @@
+body {
+	font-family: sans-serif;
+	background-color: #333333;
+	color: #33DD99;
+	text-align: center;
+}
+
+h1 {
+	padding: 50px;
+}
+
+h4 {
+	padding: 50px;
+}
+
+div {
+	padding: 20px;
+	width: 300px;
+	background-color: #33DD99;
+	color: #333333;
+	margin: auto;
+	margin-bottom: 20px;
+	font-weight: bold;
+	border-radius: 5px;
+}
+
+a, a:hover, a:focus {
+	width: 340px;
+	text-decoration: none;
+	color: inherit;
+	display: block;
+	margin: auto;
+}
